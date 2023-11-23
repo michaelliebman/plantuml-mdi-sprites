@@ -1,5 +1,6 @@
 {
   "name": "plantuml-mdi-sprites",
+  "description": "Pictogrammers' Material Design Icons as sprites for PlantUML",
   "version": "0.1.0",
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
