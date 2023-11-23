@@ -20,7 +20,7 @@ jobs:
           npm --version
           npx commitlint --version
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Validate current commit (last commit) with commitlint
         if: github.event_name == 'push'
