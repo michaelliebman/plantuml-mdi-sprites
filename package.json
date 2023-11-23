@@ -3,6 +3,7 @@
   "description": "Pictogrammers' Material Design Icons as sprites for PlantUML",
   "version": "0.1.0",
   "author": "Michael Liebman <dev@mliebman.com>",
+  "license":"Apache-2.0",
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
     "@commitlint/config-conventional": "^18.4.3",
