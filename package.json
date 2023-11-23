@@ -11,6 +11,14 @@
   "bugs": {
     "url": "https://github.com/msl521/plantuml-mdi-sprites/issues"
   },
+  "keywords": [
+    "mdi",
+    "material",
+    "design",
+    "icons",
+    "plantuml",
+    "sprites"
+  ],
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
     "@commitlint/config-conventional": "^18.4.3",
